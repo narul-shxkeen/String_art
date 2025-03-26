@@ -11,7 +11,7 @@ def rad_to_deg(rad):
 
 timmy=Turtle()
 screen=Screen()
-screen.title("Pattern making with Turtle")
+screen.title("String art with Turtle")
 
 timmy.speed(0)
 
