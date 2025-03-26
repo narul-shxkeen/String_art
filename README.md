@@ -29,3 +29,9 @@ The dir_x and dir_y assume that turtle is facing in east. Use command turtle.set
 dir_y: Set 0 if you want turtle to start along -y axis from its current position and 1 if you want to go towards +y axis to make the art.
 
 dir_x: Set 0 if you want turtle to start along -x axis from its current position and 1 if you want to go towards +x axis to make the art.
+
+## Demo Art
+
+Here's an example I made using my drawer function:
+
+<img alt="A Tree like structure made with only straight lines but visibly comprising of curves." src="images/result.png" width="1000" height="1000">
